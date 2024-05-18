@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV file
-csv_file_path = '/home/alabi-ayobami/Downloads/accounts.csv'
+csv_file_path = 'path_TO_csv.csv'
 df_wallets = pd.read_csv(csv_file_path)
 
 # Extract wallet addresses from the 'ContractAddress' column
@@ -14,7 +14,7 @@ import json
 from datetime import datetime, timedelta
 
 # Zerion API key
-api_key = "Basic emtfZGV2XzRlMTI1ZWQ2ZDg4NzQ2MTA5ZGFjNTY1OTc0NDE2ZWVkOg=="
+api_key = "zerion_Api_key"
 headers = {
     'Authorization': api_key
 }

@@ -5,7 +5,7 @@ csv_file_path = 'path_TO_csv.csv'
 df_wallets = pd.read_csv(csv_file_path)
 
 # Extract wallet addresses from the 'ContractAddress' column
-wallet_addresses = df_wallets['Address'].tolist()
+wallet_addresses = df_wallets['Address'].tolist(
 
 # Display the first few wallet addresses to verify extraction
 print(wallet_addresses[:5])

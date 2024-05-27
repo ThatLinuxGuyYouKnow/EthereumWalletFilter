@@ -1,4 +1,4 @@
-import pandas as p
+import pandas as pd
 
 # Load the CSV file
 csv_file_path = 'path_TO_csv.csv'

@@ -1,6 +1,6 @@
 # Wallet Screening with Zerion API
 
-This project was originally developed for a Replit bounty that was cancelled. The goal of this project is to read wallet addresses from a CSV file, screen them using the Zerion API, and apply specific filtering criteria to identify relevant wallets.
+This project was originally developed for a Replit bounty that was cancelled. The goal of this project is to read wallet addresses from a CSV file, screen them using the Zerion API, and apply specific filtering criteria to identify relevant wallets
 
 ## Table of Contents
 - [Introduction](#introduction)

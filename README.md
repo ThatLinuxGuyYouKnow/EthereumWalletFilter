@@ -29,7 +29,7 @@ This script reads wallet addresses from a CSV file and screens them using the Ze
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ThatLinuxGuyYouKnow/EthereumWalletFilter.git
+    git clone https://github.com/ThatLinuxGuyYouKnow/EthereumWalletFilter.git wallet-screening
     cd wallet-screening
     ```
 

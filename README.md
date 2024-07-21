@@ -45,7 +45,11 @@ This script reads wallet addresses from a CSV file and screens them using the Ze
     ```bash
     python wallet_screening.py
     ```
-    or 
+    or
+
+   ```bash
+   python3 wallet_screening.py
+   ```
 
 ## Filtering Criteria
 1. **New Wallets:** Newly created wallets, less than 24 hours old.

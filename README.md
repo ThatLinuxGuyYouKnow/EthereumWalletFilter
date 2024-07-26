@@ -63,7 +63,7 @@ The script will save the approved wallets into a JSON file named `approved_walle
 - Wallet address
 - Last transaction date and time
 - Zerion link
-- Last transaction value in EUR
+- Last transaction value in EUR(Euros)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
